@@ -4,8 +4,8 @@ setup(
     name="Exam Practice Time Optimization",  
     version="1.0.0",
     description="A project to analyze student activity logs and recommend optimal practice durations for different topics.",
-    author="Minal Madankar Devikar",  
-    author_email="meenal.madankar@gmail.com"
+    author="Pankaj Devikar",  
+    author_email="pankaj.devikar@gmail.com"
     packages=find_packages(),  
     install_requires=[
         "pandas",
