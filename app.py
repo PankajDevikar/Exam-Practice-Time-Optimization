@@ -16,7 +16,7 @@ st.title("📊 Exam Practice Time Optimization Dashboard")
 st.markdown("""
 Optimize student performance by analyzing practice durations and scores.  
 Upload your dataset to explore insights and recommendations.  
-**Developed by Minal Devikar**
+**Developed by Pankaj Devikar**
 """)
 
 # Sidebar for file upload
@@ -85,4 +85,4 @@ else:
     st.info("Awaiting CSV file upload. Please upload a file to proceed.")
 
 # Footer
-st.sidebar.markdown("**Developed by Minal Devikar**")
+st.sidebar.markdown("**Developed by Pankaj Devikar**")
